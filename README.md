@@ -7,6 +7,7 @@ The work involved building and investigation of a Physics Involved Neural Networ
 
 <div align="center">
 <div style="height:700px; overflow-y:auto; border:1px solid #d0d7de; border-radius:8px; padding:10px;">
+<img src="./docs/fdm_solution.png" width="100%">
 <img src="./docs/solution_for_ x-velocity,_y-velocity,_pressure.png" width="100%">
 <img src="./docs/pressure,_streamline_and_convergence_plot.png" width="100%">
 <img src="./docs/loss_weighting_strategy_and-final_losses.jpg" width="100%">
